@@ -1,2 +1,2 @@
 # restapi
-Implementing rest api in Go
+Calling a rest api in Go
